@@ -1,0 +1,12 @@
+django
+djangorestframework
+drf_yasg
+django-allauth
+dj-rest-auth
+pillow
+nltk
+scikit-learn
+opencv-python
+matplotlib
+tensorflow
+numpy
